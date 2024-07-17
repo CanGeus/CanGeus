@@ -49,10 +49,5 @@
 
 ## Languages and Tools
 
-<p align="left"> <a href="https://github.com/CanGeus"><img src="https://skillicons.dev/icons?i=vscode,replit,github,mongodb,css,html,js,express,bots,nodejs"> </a> </p>
-
-## My Stats:
-<p align="center">
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=CanGeus&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
-</p>
+<p align="left"> <a href="https://github.com/CanGeus"><img src="https://skillicons.dev/icons?i=vscode,mysql,github,mongodb,css,html,js,express,bootstrap,talwind,nodejs,c,cpp,python,dart,flutter"> </a> </p>
 
