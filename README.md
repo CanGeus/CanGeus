@@ -49,5 +49,5 @@
 
 ## Languages and Tools
 
-<p align="left"> <a href="https://github.com/CanGeus"><img src="https://skillicons.dev/icons?i=vscode,mysql,github,mongodb,css,html,js,express,bootstrap,talwind,nodejs,c,cpp,python,dart,flutter"> </a> </p>
+<p align="left"> <a href="https://github.com/CanGeus"><img src="https://skillicons.dev/icons?i=vscode,mysql,github,mongodb,css,html,js,express,bootstrap,tailwind,nodejs,c,cpp,python,dart,flutter"> </a> </p>
 
