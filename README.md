@@ -44,7 +44,17 @@
 - 🌱 Learning Node.js & more
 - 📫 How to contact me: CanGeus (Discord)
 
-## Languages and Tools
+## Languages
+<p align="left">
+  <a href="https://github.com/CanGeus"><img src="https://skillicons.dev/icons?i=css,html,js,c,cpp,python,dart"></a>
+</p>
 
+## Databses
+
+<p align="left">
+  <a href="https://github.com/CanGeus"><img src="https://skillicons.dev/iconsi=mysql,mongodb,pstgres"></a>
+</p>
+
+## Framwork
 <p align="left"> <a href="https://github.com/CanGeus"><img src="https://skillicons.dev/icons?i=vscode,mysql,github,mongodb,css,html,js,express,bootstrap,tailwind,nodejs,c,cpp,python,dart,flutter"> </a> </p>
 
