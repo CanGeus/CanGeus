@@ -52,9 +52,12 @@
 ## Databses
 
 <p align="left">
-  <a href="https://github.com/CanGeus"><img src="https://skillicons.dev/iconsi=mysql,mongodb,pstgres"></a>
+  <a href="https://github.com/CanGeus"><img src="https://skillicons.dev/iconsi=mysql,mongodb,postgres"></a>
 </p>
 
-## Framwork
-<p align="left"> <a href="https://github.com/CanGeus"><img src="https://skillicons.dev/icons?i=vscode,mysql,github,mongodb,css,html,js,express,bootstrap,tailwind,nodejs,c,cpp,python,dart,flutter"> </a> </p>
+## Tools
+
+<p align="left">
+  <a href="https://github.com/CanGeus"><img src="https://skillicons.dev/icons?i=vscode,github,express,bootstrap,tailwind,nodejs,flutter"></a>
+</p>
 
