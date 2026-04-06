@@ -52,7 +52,7 @@
 ## Databses
 
 <p align="left">
-  <a href="https://github.com/CanGeus"><img src="https://skillicons.dev/iconsi=mysql,mongodb,postgres"></a>
+  <a href="https://github.com/CanGeus"><img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"></a>
 </p>
 
 ## Tools
